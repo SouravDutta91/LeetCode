@@ -23,6 +23,6 @@ class Solution:
         return result
 
 solution = Solution()
-nums = [3, 3]
-target = 6
+nums = [2, 7, 11, 15]
+target = 9
 print(solution.twoSum(nums, target))
